@@ -7,6 +7,6 @@ int main(){
    int x,y;
    cin >> x >> y;
 
-   cout <<" the sum = "<< x+y;
+   cout <<" the mul = "<< x*y;
 
 }
